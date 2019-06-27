@@ -9,8 +9,4 @@ public class LoadPage {
         DriverManager.getInstance().getWebDriver().navigate().to(PropertyAccesor.getInstance().getBaseURL());
         return new Home();
     }
-
-    public static void main(String[] args) {
-        loadGoogleHome().searchTextAndClickSearchButton("UPB cochabamba");
-    }
 }

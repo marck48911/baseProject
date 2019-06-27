@@ -5,7 +5,7 @@ import cucumber.api.java.en.Given;
 
 public class LoadPageStepDef {
     @Given("^load google page$")
-    public void loadGooglePage() throws Throwable {
+    public void loadGooglePage() {
         LoadPage.loadGoogleHome();
     }
 }
