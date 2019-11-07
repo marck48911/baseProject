@@ -1,2 +1,2 @@
 # baseProject
-This is th RELEASE BRANCH
+This is th DEVELOP BRANCH
