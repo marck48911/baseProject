@@ -1,3 +1,9 @@
+<<<<<<< HEAD
  Add Name:Valencia Marco	
  Add email:mnvalenciag@hotmail.com
  Add gitaccount:marck48911
+=======
+Name:Marco Valencia Gutierrez
+email:mmvalenciag@hotmail.com
+gitaccount:testgit
+>>>>>>> d88c1182cccbc321861f37137dcd8bf5c828d862
